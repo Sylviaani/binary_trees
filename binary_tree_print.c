@@ -5,7 +5,8 @@
 
 /* Original code from http://stackoverflow.com/a/13755911/5184480 */
 
-/* print_t - stores recursively each level in an array of strings
+/**
+ * print_t - stores recursively each level in an array of strings
  *
  * @depth: depth of the node
  * @tree: Pointer to the node to print
